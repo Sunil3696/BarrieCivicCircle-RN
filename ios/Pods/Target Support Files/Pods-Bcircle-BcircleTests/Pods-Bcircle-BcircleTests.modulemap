@@ -1,0 +1,6 @@
+framework module Pods_Bcircle_BcircleTests {
+  umbrella header "Pods-Bcircle-BcircleTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
